@@ -1,0 +1,9 @@
+[package]
+name = "ir_comparison"
+version = "0.1.0"
+edition = "2024"
+
+[build-dependencies]
+bindgen = "0.72.*"
+
+[dependencies]
